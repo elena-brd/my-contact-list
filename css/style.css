@@ -1,0 +1,13 @@
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-container i {
+    padding-right: 1rem;
+    color: #777;
+}
+
+.search-container input::placeholder {
+    color: #777;
+}
